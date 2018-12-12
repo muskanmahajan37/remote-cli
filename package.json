@@ -1,0 +1,21 @@
+{
+  "name": "remote-cli",
+  "version": "1.0.0",
+  "description": "Node.js Remote CLI Test",
+  "main": "index.js",
+  "bin": "cli/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phodal/remote-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phodal/remote-cli/issues"
+  },
+  "homepage": "https://github.com/phodal/remote-cli#readme"
+}
